@@ -1,0 +1,10 @@
+24 24 42 57.14 3 0 v SriLanka
+12 12 13 92.30 3 0 v SouthAfrica
+0 0 2 0.00 0 0 v SouthAfrica
+32 32 46 69.56 3 0 v NewZealand
+12 12 22 54.54 2 0 v NewZealand
+9 9 28 32.14 1 0 v NewZealand
+94 94 114 82.45 7 1 v SriLanka
+10 10 13 76.92 2 0 v Pakistan
+2 2 4 50.00 0 0 v Australia
+45 45 41 109.75 6 1 v Australia

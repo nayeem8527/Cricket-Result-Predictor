@@ -1,0 +1,13 @@
+0 3 35 0 0 Australia
+0 2 41 0 0 Australia
+30 0 73 1 0 SriLanka
+0 4 32 0 0 SriLanka
+0 0 51 1 0 SriLanka
+22 2 29 0 0 SouthAfrica
+0 2 41 0 0 SouthAfrica
+0 0 40 0 0 NewZealand
+27 1 19 1 0 Pakistan
+0 0 72 0 0 Australia
+0 2 68 0 0 Australia
+0 3 73 1 0 Australia
+1 1 64 0 0 SriLanka

@@ -1,0 +1,6 @@
+1 1 4 25.00 0 0 v Australia
+52 52 61 85.24 3 1 v Pakistan
+48 48 61 78.68 3 0 v SouthAfrica
+4 4 14 28.57 0 0 v Pakistan
+42 42 47 89.36 6 0 v Australia
+11 11 22 50.00 2 0 v Australia

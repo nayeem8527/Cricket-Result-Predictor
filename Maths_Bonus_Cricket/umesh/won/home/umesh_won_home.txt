@@ -1,0 +1,11 @@
+5.0 0 32 2 6.40 England
+8.2 0 50 2 6.00 England
+10.0 0 71 0 7.10 England
+8.0 1 33 2 4.12 WestIndies
+10.0 0 38 3 3.80 WestIndies
+9.0 0 42 1 4.66 WestIndies
+9.0 0 44 2 4.88 WestIndies
+6.2 2 24 2 3.78 SriLanka
+10.0 1 54 2 5.40 SriLanka
+9.0 0 53 4 5.88 SriLanka
+8.0 0 38 2 4.75 SriLanka

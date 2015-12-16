@@ -1,0 +1,12 @@
+10.0 3 26 2 2.60 Zimbabwe
+6.0 0 25 1 4.16 Zimbabwe
+5.4 1 23 0 4.05 Bangladesh
+8.0 2 22 4 2.75 Bangladesh
+6.0 1 18 0 3.00 England
+3.0 0 17 0 5.66 England
+9.0 0 35 2 3.88 Pakistan
+7.0 0 31 2 4.42 SouthAfrica
+9.0 2 35 1 3.88 WestIndies
+6.0 0 38 1 6.33 Ireland
+10.0 1 48 3 4.80 Zimbabwe
+7.0 0 36 1 5.14 Bangladesh

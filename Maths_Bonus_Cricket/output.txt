@@ -1,0 +1,374 @@
+
+
+=====================================MATHS BONUS PROJECT=========================================
+
+
+Objective -
+
+To Analyze 'SUCCESS TIPS' For Indian Cricket Team Based On The Performance Of Indian Cricket Team
+and Indian Cricket Team Players In both Home and Away Conditions Against Some Major Cricketing Nations.
+
+Teams -
+
+1. Australia 
+2. Sri Lanka 
+3. South Africa 
+4. Pakistan 
+5. New Zealand 
+6. England 
+7. West Indies 
+8. Zimbabwe
+
+Made By - 
+
+1. Harish Fulara - 2014143
+2. Mohammad Nayeem - 2014147
+
+=================================================================================================
+
+
+Analysis 1(a) -
+
+The 'SUCCESS TIP' for Indian Cricket Team winning in India based on Virat Kohli's performance
+
+Method              : One-Sided Parameter Estimation
+Confidence Interval : 90 percent
+
+Sample Mean (runs)        : 54.10
+Sample Variance           : 36.71
+Sample Standard Deviation : 6.06
+Confidence Interval       : (52.35 , infinity)
+
+Conclusion : There is 90 percent chance of Indian Cricket Team winning in India if Virat Kohli
+             scores 52.35 or more runs
+
+Analysis 1(b) -
+
+The 'SUCCESS TIP' for Indian Cricket Team winning outside India based on Virat Kohli's performance
+
+Method              : One-Sided Parameter Estimation
+Confidence Interval : 90 percent
+
+Sample Mean (runs)        : 53.07
+Sample Variance           : 9.57
+Sample Standard Deviation : 3.09
+Confidence Interval       : (52.30 , infinity)
+
+Conclusion : There is 90 percent chance of Indian Cricket Team winning outside India if Virat Kohli
+             scores 52.30 or more runs
+
+=================================================================================================
+
+
+Analysis 2(a) -
+
+The 'SUCCESS TIP' for Indian Cricket Team winning in India based on Shikhar Dhawan's performance
+
+Method              : One-Sided Parameter Estimation
+Confidence Interval : 90 percent
+
+Sample Mean (runs)        : 76.86
+Sample Variance           : 984.50
+Sample Standard Deviation : 31.38
+Confidence Interval       : (60.08 , infinity)
+
+Conclusion : There is 90 percent chance of Indian Cricket Team winning in India if Shikhar Dhawan
+             scores 60.08 or more runs
+
+Analysis 2(b) -
+
+The 'SUCCESS TIP' for Indian Cricket Team winning outside India based on Shikhar Dhawan's performance
+
+Method              : One-Sided Parameter Estimation
+Confidence Interval : 90 percent
+
+Sample Mean (runs)        : 67.29
+Sample Variance           : 363.70
+Sample Standard Deviation : 19.07
+Confidence Interval       : (57.09 , infinity)
+
+Conclusion : There is 90 percent chance of Indian Cricket Team winning outside India if Shikhar Dhawan
+             scores 57.09 or more runs
+
+=================================================================================================
+
+
+Analysis 3(a) -
+
+The 'SUCCESS TIP' for Indian Cricket Team winning in India based on M.S Dhoni's performance
+
+Method              : One-Sided Parameter Estimation
+Confidence Interval : 90 percent
+
+Sample Mean (runs)        : 55.80
+Sample Variance           : 79.93
+Sample Standard Deviation : 8.94
+Confidence Interval       : (53.45 , infinity)
+
+Conclusion : There is 90 percent chance of Indian Cricket Team winning in India if M.S Dhoni
+             scores 53.45 or more runs
+
+Analysis 3(b) -
+
+The 'SUCCESS TIP' for Indian Cricket Team winning outside India based on M.S Dhoni's performance
+
+Method              : One-Sided Parameter Estimation
+Confidence Interval : 90 percent
+
+Sample Mean (runs)        : 31.88
+Sample Variance           : 63.53
+Sample Standard Deviation : 7.97
+Confidence Interval       : (29.31 , infinity)
+
+Conclusion : There is 90 percent chance of Indian Cricket Team winning outside India if M.S Dhoni
+             scores 29.31 or more runs
+
+=================================================================================================
+
+
+Analysis 4(a) -
+
+The 'SUCCESS TIP' for Indian Cricket Team winning in India based on Ajinkya Rahane's performance
+
+Method              : One-Sided Parameter Estimation
+Confidence Interval : 90 percent
+
+Sample Mean (runs)        : 30.67
+Sample Variance           : 142.22
+Sample Standard Deviation : 11.93
+Confidence Interval       : (23.66 , infinity)
+
+Conclusion : There is 90 percent chance of Indian Cricket Team winning in India if Ajinkya rahane
+             scores 23.66 or more runs
+
+Analysis 4(b) -
+
+The 'SUCCESS TIP' for Indian Cricket Team winning outside India based on Ajinkya Rahane's performance
+
+Method              : One-Sided Parameter Estimation
+Confidence Interval : 90 percent
+
+Sample Mean (runs)        : 29.33
+Sample Variance           : 206.72
+Sample Standard Deviation : 14.38
+Confidence Interval       : (15.74 , infinity)
+
+Conclusion : There is 90 percent chance of Indian Cricket Team winning outside India if Ajinkya Rahane's
+             scores 15.74 or more runs
+
+=================================================================================================
+
+
+Analysis 5(a) -
+
+The 'SUCCESS TIP' for Indian Cricket Team winning in India based on Suresh Raina's performance
+
+Method              : One-Sided Parameter Estimation
+Confidence Interval : 90 percent
+
+Sample Mean (runs)        : 31.75
+Sample Variance           : 3.50
+Sample Standard Deviation : 1.87
+Confidence Interval       : (31.12 , infinity)
+
+Conclusion : There is 90 percent chance of Indian Cricket Team winning in India if Suresh Raina
+             scores 31.12 or more runs
+
+Analysis 5(b) -
+
+The 'SUCCESS TIP' for Indian Cricket Team winning outside India based on Suresh Raina's performance
+
+Method              : One-Sided Parameter Estimation
+Confidence Interval : 90 percent
+
+Sample Mean (runs)        : 32.61
+Sample Variance           : 0.15
+Sample Standard Deviation : 0.39
+Confidence Interval       : (32.52 , infinity)
+
+Conclusion : There is 90 percent chance of Indian Cricket Team winning outside India if Suresh Raina
+             scores 32.52 or more runs
+
+=================================================================================================
+
+
+Analysis 6(a) -
+
+The 'SUCCESS TIP' for Indian Cricket Team winning in India based on Rohit Sharma's performance
+
+Method              : One-Sided Parameter Estimation
+Confidence Interval : 90 percent
+
+Sample Mean (runs)        : 124.33
+Sample Variance           : 1290.69
+Sample Standard Deviation : 35.93
+Confidence Interval       : (103.21 , infinity)
+
+Conclusion : There is 90 percent chance of Indian Cricket Team winning in India if Rohit Sharma
+             scores 103.21 or more runs
+
+Analysis 6(b) -
+
+The 'SUCCESS TIP' for Indian Cricket Team winning outside India based on Rohit Sharma's performance
+
+Method              : One-Sided Parameter Estimation
+Confidence Interval : 90 percent
+
+Sample Mean (runs)        : 23.82
+Sample Variance           : 6.98
+Sample Standard Deviation : 2.64
+Confidence Interval       : (23.23 , infinity)
+
+Conclusion : There is 90 percent chance of Indian Cricket Team winning outside India if Rohit Sharma
+             scores 23.23 or more runs
+
+=================================================================================================
+
+
+Analysis 7(a) -
+
+The 'SUCCESS TIP' for Indian Cricket Team winning in India based on Ravichandran Ashwin's performance
+
+Method              : One-Sided Parameter Estimation
+Confidence Interval : 90 percent
+
+Sample Mean (wickets)     : 1.80
+Sample Variance           : 0.05
+Sample Standard Deviation : 0.21
+Confidence Interval       : (1.73 , infinity)
+
+Conclusion : There is 90 percent chance of Indian Cricket Team winning in India if Ravichandran Ashwin
+             takes 2 or more wickets
+
+Analysis 7(b) -
+
+The 'SUCCESS TIP' for Indian Cricket Team winning outside India based on Ravichandran Ashwin's performance
+
+Method              : One-Sided Parameter Estimation
+Confidence Interval : 90 percent
+
+Sample Mean (wickets)     : 1.44
+Sample Variance           : 0.16
+Sample Standard Deviation : 0.40
+Confidence Interval       : (1.30 , infinity)
+
+Conclusion : There is 90 percent chance of Indian Cricket Team winning outside India if Ravichandran Ashwin
+             takes 2 or more wickets
+
+=================================================================================================
+
+
+Analysis 8(a) -
+
+The 'SUCCESS TIP' for Indian Cricket Team winning outside India based on Mohit Sharma's performance
+
+Method              : One-Sided Parameter Estimation
+Confidence Interval : 90 percent
+
+Sample Mean (wickets)     : 1.42
+Sample Variance           : 0.03
+Sample Standard Deviation : 0.18
+Confidence Interval       : (1.35 , infinity)
+
+Conclusion : There is 90 percent chance of Indian Cricket Team winning in India if Mohit Sharma
+             takes 2 or more wickets
+
+=================================================================================================
+
+
+Analysis 9(a) -
+
+The 'SUCCESS TIP' for Indian Cricket Team winning in India based on Mohammad Shami's performance
+
+Method              : One-Sided Parameter Estimation
+Confidence Interval : 90 percent
+
+Sample Mean (wickets)     : 1.50
+Sample Variance           : 0.03
+Sample Standard Deviation : 0.17
+Confidence Interval       : (1.43 , infinity)
+
+Conclusion : There is 90 percent chance of Indian Cricket Team winning in India if Mohammad Shami
+             takes 2 or more wickets
+
+Analysis 9(b) -
+
+The 'SUCCESS TIP' for Indian Cricket Team winning outside India based on Mohammad Shami's performance
+
+Method              : One-Sided Parameter Estimation
+Confidence Interval : 90 percent
+
+Sample Mean (wickets)     : 2.18
+Sample Variance           : 0.09
+Sample Standard Deviation : 0.29
+Confidence Interval       : (2.08 , infinity)
+
+Conclusion : There is 90 percent chance of Indian Cricket Team winning outside India if Mohammad Shami
+             takes 3 or more wickets
+
+=================================================================================================
+
+
+Analysis 10(a) -
+
+The 'SUCCESS TIP' for Indian Cricket Team winning in India based on Umesh Yadav's performance
+
+Method              : One-Sided Parameter Estimation
+Confidence Interval : 90 percent
+
+Sample Mean (wickets)     : 2.00
+Sample Variance           : 0.00
+Sample Standard Deviation : 0.00
+Confidence Interval       : (2.00 , infinity)
+
+Conclusion : There is 90 percent chance of Indian Cricket Team winning in India if Umesh Yadav
+             takes 2 or more wickets
+
+Analysis 10(b) -
+
+The 'SUCCESS TIP' for Indian Cricket Team winning outside India based on Umesh Yadav's performance
+
+Method              : One-Sided Parameter Estimation
+Confidence Interval : 90 percent
+
+Sample Mean (wickets)     : 1.47
+Sample Variance           : 0.01
+Sample Standard Deviation : 0.11
+Confidence Interval       : (1.44 , infinity)
+
+Conclusion : There is 90 percent chance of Indian Cricket Team winning outside India if Umesh Yadav
+             takes 2 or more wickets
+
+=================================================================================================
+
+
+Analysis 11 -
+
+The probability of Indian Cricket Team winning in India is more than the probability of
+Indian Cricket Team winning outside of India under the captainship of M.S Dhoni
+
+Method              : Hypothesis Testing
+p1                  : Proportion of Indian Cricket Team winning in India under the captainship of M.S Dhoni
+p2                  : Proportion of Indian Cricket Team winning outside India under the captainship of M.S Dhoni
+
+H0                  : p1 - p2 <= 0
+H1                  : p1 - p2 > 0
+Significance Level  : 5 percent
+
+p1                           : 0.49
+p2                           : 0.27
+n1 (Size of I sample)        : 51
+n2 (Size of II sample)       : 63
+I Sample Variance            : 0.25
+II Sample Variance           : 0.20
+I Sample Standard Deviation  : 0.50
+II Sample Standard Deviation : 0.44
+Test Statistic               : z - test
+Test Statistic Value         : 2.46
+p - value                    : 0.007
+
+Conclusion : Based on our p - value we can say that due to lack of evidences we reject our NULL HYPOTHESIS.
+             Hence, The probability of Indian Cricket Team winning in India is more than the probability of
+             Indian Cricket Team winning outside of India under the captainship of M.S Dhoni
+
+=================================================================================================

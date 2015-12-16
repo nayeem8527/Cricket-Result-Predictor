@@ -1,0 +1,16 @@
+10.0 1 32 3 3.20 SriLanka
+8.0 0 47 0 5.87 Australia
+10.0 0 52 0 5.20 SriLanka
+9.0 0 39 3 4.33 SriLanka
+10.0 0 56 1 5.60 Pakistan
+10.0 1 46 2 4.60 SriLanka
+10.0 0 50 0 5.00 SriLanka
+10.0 1 46 2 4.60 SriLanka 
+9.0 0 37 0 4.11 SriLanka
+10.0 0 47 0 4.70 SouthAfrica
+8.0 0 35 2 4.37 Pakistan
+10.0 1 48 3 4.80 SriLanka
+5.0 0 20 1 4.00 SriLanka
+10.0 0 42 2 4.20 SriLanka
+8.0 3 41 1 5.12 Pakistan
+10.0 0 41 3 4.10 SouthAfrica

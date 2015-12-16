@@ -1,0 +1,7 @@
+114 114 94 121.27 12 1 v SouthAfrica
+48 48 41 117.07 5 0 v Pakistan
+68 68 92 73.91 6 1 v SriLanka
+15 15 16 93.75 2 0 v SriLanka
+16 16 35 45.71 2 0 v SriLanka
+73 73 76 96.05 7 1 v Pakistan
+137 137 146 93.83 16 2 v SouthAfrica

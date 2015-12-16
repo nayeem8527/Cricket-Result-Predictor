@@ -1,0 +1,81 @@
+6 teams
+
+India
+Mahendra Singh Dhoni (capt, wk)
+Virat Kohli (vice-capt)
+Ajinkya Rahane
+Shikhar Dhawan
+Rohit Sharma
+Suresh Raina
+Ravindra Jadeja
+Ravichandran Ashwin
+Mohammed Shami
+Umesh Yadav
+Mohit sharma
+
+
+Pakistan
+Sarfraz ahmed
+Ahmed shehzad
+Younis khan
+Misbah ul haq
+Sohaib maqsood
+Umar akhmal
+Shahid afridi
+Wahab riaz
+Sohail khan
+Rahat ali
+Mohammad irfan
+
+Australia
+David warner
+Aaron finch
+Steven smith
+Michael clarke
+Shane watson
+Glenn maxwell
+James faulkner
+Brad haddin
+Mitchell johnson
+Mitchell starc
+Josh hazlewood
+
+
+New Zealand
+Martin guptill
+Brendon mcCullum
+Kane williamson
+Ross taylor
+Grant elliot
+Corey anderson
+Luke ronchi
+Daniel vettori
+Tim southee
+Adam milne
+Trent boult
+
+South Africa
+Quinton de kock
+Hashim amla
+Faf du plessis
+Rilee rossouw
+Ab de villiers
+David miller
+Jp duminy
+Dale steyn
+Kyle abbot
+Morne morkel
+Imran tahir
+
+Sri Lanka
+Lahiru thirimanne
+T-dilshan
+Kumar sangrakara
+Mahela jayawardene
+Dimuth karunaratne
+Angelo mathews
+Jeevan mendis
+Nuwan kulasekara
+Rangana herath
+Lasith malinga
+Suranga lakmal

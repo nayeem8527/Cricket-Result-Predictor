@@ -1,0 +1,13 @@
+8.0 0 48 0 6.00 Zimbabwe
+4.0 0 20 0 5.00 Zimbabwe
+7.0 0 46 0 6.57 Australia
+8.0 0 58 1 7.25 SriLanka
+6.0 0 39 2 6.50 Australia
+4.0 0 38 0 9.50 SriLanka
+9.4 2 43 3 4.44 WestIndies
+8.0 0 64 0 8.00 SriLanka
+6.0 0 45 0 7.50 SouthAfrica
+6.0 0 46 1 7.66 England
+10.0 1 55 2 5.50 Australia
+6.0 0 42 0 7.00 England
+9.0 0 72 4 8.00 Australia

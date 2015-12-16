@@ -1,0 +1,6 @@
+44 44 48 91.66 4 1 v NewZealand
+141 141 123 114.63 17 4 v Australia
+79 79 89 88.76 7 3 v Australia
+209 209 158 132.27 12 16 v Australia
+264 264 173 152.60 33 9 v SriLanka
+9 9 12 75.00 2 0 v SriLanka
